@@ -2,7 +2,7 @@
 ___
 I am a DFIR analyst, developer, and cybersecurity researcher.
 
-I have a great interest in malware analysis/reverse engineering as well as exploit development and offensive skills for the betterment of the defensive community. I hope my content can help others progress on their learning path in cybersecurity. 
+I have a great interest in malware analysis/reverse engineering as well as exploit development and offensive skills for the betterment of the defensive community. I hope my content can help others progress on developing their skills in cybersecurity.
 
 ### Certifications
 CySA+ | CEH | PJMR | BTL1
