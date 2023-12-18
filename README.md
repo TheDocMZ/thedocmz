@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there. I'm Kyle, aka TheDocMZ 👋
+___
+I am a developer, DFIR analyst, and cybersecurity researcher.
 
-<!--
-**TheDocMZ/thedocmz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a great interest in malware analysis/reverse engineering as well as exploit development and offensive skills for the betterment of the defensive community. I hope my content can help others progress on their learning path in cybersecurity. 
 
-Here are some ideas to get you started:
+### Certifications
+CySA+ | CEH | PJMR | BTL1
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools:
+<p>
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/cpp.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/python.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/vscode.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/ansible.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/raspberrypi.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/docker.svg" width="50" />
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/wazuh.svg" width="50" />
+</p>
+<p>
+<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/splunk.svg" width="50" />
+<img src="https://github.com/mandiant/flare-vm/blob/main/Images/flarevm-logo-old.png?raw=true" width="50" />
+<img src="https://github.com/REMnux/docs/blob/master/.gitbook/assets/remnux-logo.png?raw=true" width="50" />
+<img src="https://github.com/REMnux/distro/blob/master/ppasrc/ghidra/ghidra-10.2-focal/ghidra/docs/images/GHIDRA_1.png?raw=true" width="50" />
+<img src="https://github.com/rapid7/metasploit-framework/blob/master/docs/assets/images/favicon.png?raw=true" width="50" />
+<img src="https://github.com/sleuthkit/autopsy/blob/develop/unix/autopsy.png?raw=true" width="50" />
+<img src="https://github.com/volatilityfoundation/volatility3/blob/develop/doc/source/_static/vol.png?raw=true" width="50" />
+</p>
