@@ -19,7 +19,6 @@ CySA+ | CEH | PJMR | BTL1
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/1385e150f515795aa078bdbae2b8cdafb7567368/svg/splunk.svg" width="50" />
 <img src="https://github.com/mandiant/flare-vm/blob/main/Images/flarevm-logo-old.png?raw=true" width="50" />
 <img src="https://github.com/REMnux/docs/blob/master/.gitbook/assets/remnux-logo.png?raw=true" width="50" />
-<img src="https://github.com/REMnux/distro/blob/master/ppasrc/ghidra/ghidra-10.2-focal/ghidra/docs/images/GHIDRA_1.png?raw=true" width="50" />
 <img src="https://github.com/rapid7/metasploit-framework/blob/master/docs/assets/images/favicon.png?raw=true" width="50" />
 <img src="https://github.com/sleuthkit/autopsy/blob/develop/unix/autopsy.png?raw=true" width="50" />
 <img src="https://github.com/volatilityfoundation/volatility3/blob/develop/doc/source/_static/vol.png?raw=true" width="50" />
